@@ -1,0 +1,13 @@
+--Cargar archivos:
+consult('C:/Users/reyes/Desktop/Escuela/Octavo semestre/Programación Lógica y Funcional/Tema 4/riego.pl').
+
+
+estado_riego(norte, Estado).
+
+hora_adecuada(este).
+
+alerta_calor(oeste).
+
+recomendacion(sur).
+
+diagnostico_total.
